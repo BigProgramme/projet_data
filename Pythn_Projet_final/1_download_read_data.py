@@ -1,13 +1,11 @@
 '''
 File: 1_download_read_data.py
 Created Date: Wed Oct 26 2022
-Author: Ammar Mian
+Author: Saint HEraud
 -----
 Last Modified: Wed Oct 26 2022
-Modified By: Ammar Mian
------*
-Copyright (c) 2022 Université Savoie Mont-Blanc
------
+Modified By: Saint Heraud
+
 '''
 
 from src.data import download_data , read_data_aop, read_data_commune
