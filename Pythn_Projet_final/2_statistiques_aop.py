@@ -1,3 +1,13 @@
+'''
+
+Created Date: Wed Oct 26 2022
+Author: Saint HEraud
+-----
+Last Modified: Wed Oct 26 2022
+Modified By: Saint Heraud
+
+'''
+
 from src.statistiques import *
 
 # Liste des taches
